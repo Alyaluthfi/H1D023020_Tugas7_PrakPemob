@@ -20,17 +20,10 @@ Proyek ini mendemonstrasikan implementasi integral dari **sistem otentikasi** be
 
 ## 🖼️ Tampilan Aplikasi (Screenshots)
 
-Tambahkan *screenshots* fungsional aplikasi Anda di sini.
 
-### 1. Halaman Otentikasi (Input Kredensial)
-
-
-
-### 2. Halaman Utama (Data Sesi Tampil)
-
-
-
-### 3. Komponen Navigasi Samping (Side Menu)
+| Halaman login | Halaman berhasil login | Halaman dashboard | Halaman side menu | Halaman tentang | Halaman pengaturan |
+| :---: | :---: |:---: |:---: |:---: |:---: |
+| ![Halaman Login](assets/login.png) | ![Halaman Berhasil Login](assets/berhasil_login.png) |![Halaman Dashboard](assets/dashboard.png) |![Halaman Side Menu](assets/side_menu.png) |![Halaman Tentang](assets/tentang.png) |![Halaman Pengaturan](assets/pengaturan.png) |
 
 ---
 
