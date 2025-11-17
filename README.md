@@ -18,8 +18,11 @@ Proyek ini mendemonstrasikan implementasi integral dari **sistem otentikasi** be
 
 ---
 
-## 🖼️ Tampilan Aplikasi (Screenshots)
+## 📱 Demo Aplikasi
 
+![Demo Aplikasi Tugas 7](assets/DemoAplikasi_Tugas7.gif)
+
+## 🖼️ Tampilan Aplikasi (Screenshots)
 
 | Halaman login | Halaman berhasil login | Halaman dashboard | Halaman side menu | Halaman tentang | Halaman pengaturan |
 | :---: | :---: |:---: |:---: |:---: |:---: |
