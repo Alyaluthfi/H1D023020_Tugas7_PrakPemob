@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'NIM_Tugas7 - Login App',
+      title: 'H1D023020_Tugas7 - Login App',
       theme: ThemeData( // Tema global untuk warna Pink
         // Gunakan ColorScheme untuk tema modern dan memastikan accentColor terdefinisi
         colorScheme: ColorScheme.fromSwatch(
