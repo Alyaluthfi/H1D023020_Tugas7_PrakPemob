@@ -20,7 +20,7 @@ Proyek ini mendemonstrasikan implementasi integral dari **sistem otentikasi** be
 
 ## 📱 Demo Aplikasi
 
-![Demo Aplikasi Tugas 7](assets/DemoAplikasi_Tugas7.gif)
+![Demo Aplikasi Tugas 7](assets/DemoAplikasi_Tugas7_PrakPemob.gif)
 
 ## 🖼️ Tampilan Aplikasi (Screenshots)
 
